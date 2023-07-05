@@ -1,2 +1,2 @@
 # Project_one
-the first project in my Portfoilio
+The first project in my Portfoilio
